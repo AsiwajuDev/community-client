@@ -1,8 +1,22 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Dev Community
+
+Clone the repository
+
+```
+$ git clone https://github.com/AsiwajuDev/community-client.git
+```
+
+- Go inside the main repository
+
+  ```
+  $ cd community-client
+  ```
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `yarn install` || `npm install`
 
 ### `yarn start`
 
