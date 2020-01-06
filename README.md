@@ -1,8 +1,8 @@
 # Dev Community
 
-Clone the repository
+- Clone the repository
 
-`$ git clone https://github.com/AsiwajuDev/community-client.git`
+  `$ git clone https://github.com/AsiwajuDev/community-client.git`
 
 - Go inside the main repository
 
