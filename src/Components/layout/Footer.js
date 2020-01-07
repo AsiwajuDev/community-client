@@ -1,12 +1,13 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 export default () => {
   return (
     <footer className="bg-dark text-white mt-5 p-3 text-center">
-      <a className="text-white mr-2" href="index.html">
+      <Link className="text-white mr-2" to="/">
         {" "}
         Dev Community
-      </a>
+      </Link>
       <small>Copyright &copy; {new Date().getFullYear()}</small>
     </footer>
   );
